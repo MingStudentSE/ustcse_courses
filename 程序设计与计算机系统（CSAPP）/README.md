@@ -64,7 +64,7 @@ https://wdxtub.com/work/
 
 ## CMU课程视频（带字幕）
 
-https://www.bilibili.com/video/BV1iW411d7hd?from=search&seid=2574729189815333218
+https://www.bilibili.com/video/BV1iW411d7hd
 
 虽然说是精校字幕，但是字幕还是有一些小问题的。不过无伤大雅
 
