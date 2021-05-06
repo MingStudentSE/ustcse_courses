@@ -42,6 +42,8 @@ https://blog.csdn.net/swy_swy_swy/article/details/105313825
 
 四人为一组，每一组的实验内容略有不同
 
+建议认真做实验，很多人使用CSAPP实验作为简历项目找到了实习
+
 
 
 ## 考试
