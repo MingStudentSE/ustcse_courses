@@ -78,7 +78,7 @@ http://staff.ustc.edu.cn/~bjhua/
 
 （2020级上学期的形式化方法是一个星期一节课，原计划12节课，最后一节课因为疫情提前放假缺失资料，找老师拿到资料后会补充上去）
 
-老师每个月会安排一节Recitation，Recitation的课件放在习题课文件夹里
+Recitation的课件放在Recitation文件夹里
 
 
 
@@ -90,7 +90,7 @@ https://blog.csdn.net/qq_39266065/article/details/107214888
 
 
 
-我的笔记是这个，笔记后面部分大多是直接复制粘贴上面学长的笔记
+这个是我的笔记，笔记后面部分大多是直接复制粘贴上面学长的笔记
 
 https://www.yuque.com/docs/share/1e3854b0-2007-4db2-b686-49cf9d3bc7f2?# 
 
