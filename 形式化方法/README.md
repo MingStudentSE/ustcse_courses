@@ -12,8 +12,6 @@
 
 华保健
 
-http://staff.ustc.edu.cn/~bjhua/
-
 
 
 ## 课程介绍
