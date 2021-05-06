@@ -72,7 +72,9 @@ https://www.bilibili.com/video/BV1iW411d7hd?from=search&seid=2574729189815333218
 
 ## 课程PPT
 
-老师的PPT和原版的CMU PPT差别不大，因此直接上传原版的
+老师的PPT和原版的CMU PPT差别不大
+
+得到老师允许上传了中科大版本的PPT
 
 
 
