@@ -2,7 +2,7 @@
 
 ## 授课老师
 
-王子俊（Clemson University终身教授）
+王子骏（Clemson University终身教授）
 
 
 
