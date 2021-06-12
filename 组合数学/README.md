@@ -30,8 +30,6 @@ https://www.bilibili.com/video/BV1s741157Du
 
 老师会提供往届试卷
 
-试卷放在往届试卷文件夹
-
 
 
 ## 笔记
@@ -61,3 +59,4 @@ https://www.bilibili.com/video/BV1s741157Du
 以上内容为豪哥口述由小铭撰写
 
 笔记由小雅姐提供
+
