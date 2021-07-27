@@ -26,7 +26,7 @@ Samuel Karlin， Howard M. Taylor “A First Course in Stochastic Processes” E
 
 期末考试的主要范围就是PPT，一共十道大题，6道随机过程，4道概率论，其中随机过程部分大部分是PPT上的原题，尤其要注意复习英文PPT部分的例题，我们的考试就出现了两个原题
 
-随机过程部分不太好学习，随机过程随机过吧（建议能不选的就别选，分数确实都不太高）。
+随机过程部分不太好学习，随机过程随机过吧。
 
 ## **期末大作业**
 
@@ -49,3 +49,4 @@ Samuel Karlin， Howard M. Taylor “A First Course in Stochastic Processes” E
 ---
 
 以上内容由小光撰写
+
