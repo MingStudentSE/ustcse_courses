@@ -62,17 +62,18 @@ https://gitee.com/mengning997/se
 
 实验一共有六次
 
-实验一 编辑神器Visual Studio Code
+- 实验一 编辑神器Visual Studio Code
 
-实验二 五大场景玩转Git
+- 实验二 五大场景玩转Git
 
-实验三 正则表达式
+- 实验三 正则表达式
 
-实验四 LinkTable的实现
+- 实验四 LinkTable的实现
 
-实验五 VS Code + draw.io画UML用例图
+- 实验五 VS Code + draw.io画UML用例图
 
-实验六 软件中的一些特殊机制
+- 实验六 软件中的一些特殊机制
+
 
 ## 考试
 
